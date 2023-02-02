@@ -7,8 +7,14 @@
   <title>Document</title>
 </head>
 <body>
-<?php
-  echo "some Text";
+<?php 
+ { 
+  echo "Some Text"."<br />";
+  ?>
+  <h2>Title second level</h2>
+  <?php
+  echo date(DATE_RSS);
+}
+
+
 ?>
-</body>
-</html>
