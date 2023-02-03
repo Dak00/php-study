@@ -19,5 +19,10 @@ if(empty($str)){
     echo "Переменная $str пустая";
 }
 
+echo "<br>";
 // Определяем тип переменной
-
+$flo = 123.125;
+echo is_int($flo);
+echo is_double($flo);
+echo "<br>";
+echo gettype($flo);
