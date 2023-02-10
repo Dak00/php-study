@@ -20,6 +20,13 @@ $nick -> age = 30;
 $nick -> name = "Nick";
 */
 //echo SomePeople::$people;
+$tim = new SomePeople();
+$tim->age = 33;
+echo  $tim->age;
+
+$bob = $tim;
+$tim->age = 31;
+echo  $bob->age;
 $fir = $sec = 5;
 $fir = 4;
 // echo $fir;
