@@ -26,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/xampp/htdocs/php-study",
+    "last_opened_file_path": "C:/xampp/htdocs/php-blog",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -43,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676017548105</updated>
       <workItem from="1676017549383" duration="333000" />
+      <workItem from="1677055194352" duration="12000" />
     </task>
     <servers />
   </component>
