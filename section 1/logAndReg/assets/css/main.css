@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&family=Montserrat&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-center{
+    /* top: 50%;
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: absolute;
+    left: 50%;
+    gap: 36px;
+    margin-left: -45px; */
+
+}
+a{
+    text-decoration: none;
+}
+.text-center >a{
+    color: black;
+    font-size: large;
+}
+.text-center>a:nth-child(1):hover{
+    color: rgb(74, 152, 188);
+}
+.text-center>a:nth-child(2):hover{
+    color: rgb(59, 155, 59);
+}
